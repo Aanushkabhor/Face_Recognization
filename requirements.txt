@@ -1,0 +1,7 @@
+opencv-python>=4.10.0.84
+opencv-contrib-python>=4.10.0.84
+numpy>=1.26.0
+imutils>=0.5.4
+streamlit>=1.38.0
+
+
